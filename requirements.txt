@@ -1,0 +1,6 @@
+av
+customtkinter
+numpy
+pillow
+pygame-ce
+moderngl

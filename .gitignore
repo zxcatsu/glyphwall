@@ -1,0 +1,11 @@
+dist/
+build/
+installer/GlyphWall-Setup.exe
+__pycache__/
+*.pyc
+*.log
+_*.py
+_*.png
+.venv/
+
+newidea.md
